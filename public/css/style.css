@@ -1,0 +1,18 @@
+#content .display{
+    display: flex;
+    justify-content: space-between;
+}
+.show{
+    font-family: Impact, sans-serif;
+    margin: 50px auto;
+    width: 400px;
+    height: 200px;
+    border: 1px solid gray;
+    outline: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.display form{
+    width: 33.3%;
+}
